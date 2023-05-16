@@ -1,1 +1,3 @@
-# m2-projeto-em-equipe
+PetSete
+
+Aplicação feita em equipe para dadoção de pet's
